@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-hello 
-improt math
+hello
 =======
 hello
 >>>>>>> copy2
